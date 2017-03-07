@@ -3,13 +3,17 @@
 }
 
 body{
-	background: limegreen;
+	background: lavender;
 }
 
-$txt-color: maroon;
+$txt-color: #605d5d;
 
 h2{
 	color: $txt-color;
 	border-bottom: 4px solid $txt-color;
 }
-
+// 
+// .checkbox{
+// 	margin-right: 20px;
+// 	margin-left: 20px;
+// }
